@@ -91,7 +91,7 @@ class DareQuiz extends Component {
       <Container>
         <Row>
           <Col xs={12} className="text-center py-3">
-            <img alt="friend-quiz" width="100%" height="100px" src={imageUrl} />
+            <img alt="friend-quiz" width="100%" height="120px" src={imageUrl} />
           </Col>
           <Col xs={12} className="text-center pt-3">
             <h3 className="m-0">Dare Quiz</h3>
